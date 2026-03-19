@@ -60,7 +60,7 @@ Para organização do projeto, os membros do grupo assumiram os seguintes papéi
 
 O projeto tem como objetivo desenvolver uma cartilha de segurança digital voltada para pequenas empresas, com orientações simples e práticas para proteção de dados e sistemas.
 
-### 🔐 Serão abordados temas como:
+###  Serão abordados temas como:
 
 * criação de senhas seguras
 * prevenção contra phishing
