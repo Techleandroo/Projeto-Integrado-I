@@ -29,6 +29,7 @@ Cartilha de Segurança Digital para Pequenas Empresas (LGPD básica)
 * Davi Emanuel Ribeiro da Silva - RA: 429676479554
 * Marcelo Cruz Souza da Silva - RA: 402082279554
 * Gabriel Souza Paula - RA: 426668679554
+* Leandro Santos Bispo - RA: 427852479554
 
 ---
 
@@ -53,6 +54,7 @@ Para organização do projeto, os membros do grupo assumiram os seguintes papéi
 * Marcelo — Responsável pela Cartilha
 * Victor — Responsável por Evidências
 * Tiffany — Responsável pelo Repositório
+* Leandro -
 
 ---
 
