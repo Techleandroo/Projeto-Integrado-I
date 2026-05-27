@@ -54,7 +54,7 @@ Para organização do projeto, os membros do grupo assumiram os seguintes papéi
 * Marcelo — Responsável pela Cartilha
 * Victor — Responsável por Evidências
 * Tiffany — Responsável pelo Repositório
-* Leandro - Responsavel pelo Repositório (suporte) + Criação da empresa fictícia e problematica inicial.
+* Leandro - Responsavel pelo Repositório (suporte) + Criação da empresa fictícia e problematica inicial e fundamentos e requisitos.
 
 ---
 
