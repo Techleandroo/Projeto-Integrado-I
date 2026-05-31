@@ -30,6 +30,8 @@ Cartilha de Segurança Digital para Pequenas Empresas (LGPD básica)
 * Marcelo Cruz Souza da Silva - RA: 402082279554
 * Gabriel Santos Souza Paula - RA: 426668679554
 * Leandro Santos Bispo - RA: 427852479554
+* Adailton Veras Pereira Junior - RA:
+427238679554
 
 ---
 
